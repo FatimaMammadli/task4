@@ -1,0 +1,29 @@
+body{
+    margin:0 auto;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    border: none;
+    box-sizing: border-box;
+}
+
+a{
+    color: green;
+    text-decoration: none;
+    outline: none;
+}
+img{
+    width:100%; 
+    
+}
+input{
+    background-color: green;
+    color: white;
+    border-color: white;
+    border-radius: 2px;
+    width: 120px;
+    height: 30px;
+}
